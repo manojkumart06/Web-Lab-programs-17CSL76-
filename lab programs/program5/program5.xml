@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="program5.css"?>
+
+<STUDENTDATA>
+<STUDENT>
+  <USN>USN   : 1CE17CS057</USN>
+  <NAME>NAME : MANOJ KUMAR T </NAME>
+  <COLLEGE>COLLEGE : CEC</COLLEGE>
+  <BRANCH>BRANCH :CSE</BRANCH>
+  <YEAR>YEAR : 2020</YEAR>
+  <EMAIL>E-MAIL : manoj953512@gmail.com</EMAIL>
+ </STUDENT>
+
+ <STUDENT>
+  <USN>USN   : 1CE17CS083</USN>
+  <NAME>NAME : P SAINATH </NAME>
+  <COLLEGE>COLLEGE : CEC</COLLEGE>
+  <BRANCH>BRANCH :CSE</BRANCH>
+  <YEAR>YEAR : 2020</YEAR>
+  <EMAIL>E-MAIL : patel8772@gmail.com</EMAIL>
+ </STUDENT>
+
+ <STUDENT>
+  <USN>USN   : 1CE17CS081</USN>
+  <NAME>NAME : PAVAN </NAME>
+  <COLLEGE>COLLEGE : CEC</COLLEGE>
+  <BRANCH>BRANCH :CSE</BRANCH>
+  <YEAR>YEAR : 2020</YEAR>
+  <EMAIL>E-MAIL : pavansrinivas017@gmail.com</EMAIL>
+ </STUDENT>
+
+ 
+</STUDENTDATA>
